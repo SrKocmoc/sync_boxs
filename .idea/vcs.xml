@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desenvolvimento/testes_adc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desenvolvimento/testes_adc/dorks/cloud_enum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desenvolvimento/testes_adc/firewalls/wafw00f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desenvolvimento/testes_adc/infra/xprobe2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desenvolvimento/testes_adc/webenum/GooFuzz" vcs="Git" />
   </component>
 </project>
